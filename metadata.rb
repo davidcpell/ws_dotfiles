@@ -4,4 +4,6 @@ maintainer_email 'davidcpell@gmail.com'
 license 'all_rights'
 description 'Dotfiles'
 long_description 'Copies my personal dotfiles from GitHub'
-version '0.1.0'
+version '0.2.0'
+
+depends 'ws_users'

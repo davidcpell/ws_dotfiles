@@ -1,4 +1,5 @@
 {
   "id": "david",
+  "groups": ["sysadmin"],
   "shell": "/bin/zsh"
 }
