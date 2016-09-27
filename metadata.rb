@@ -1,4 +1,4 @@
-name 'dotfiles'
+name 'ws_dotfiles'
 maintainer 'David Pell'
 maintainer_email 'davidcpell@gmail.com'
 license 'all_rights'

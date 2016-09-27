@@ -15,8 +15,8 @@ platforms:
 suites:
   - name: default
     run_list:
-      - recipe[dotfiles::git]
+      - recipe[ws_dotfiles::git]
       - recipe[ws_users::default]
-      - recipe[dotfiles::default]
+      - recipe[ws_dotfiles::default]
     attributes:
     data_bags_path: 'test/data_bags'
